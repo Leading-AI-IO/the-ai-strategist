@@ -1370,6 +1370,6 @@ This project is part of the research by Leading.AI.<br>
 ## 📝 License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
-© 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
+© 2026 Satoshi Yamauchi / [Leading AI](https://www.leading-ai.io/). — Licensed under CC BY 4.0
 
 
