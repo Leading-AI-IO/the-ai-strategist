@@ -4,10 +4,6 @@
 
 > 本書は、世界のどの政府機関も、どのコンサルティングファームも、<br>どの学術機関も正式に定義していなかった「AIストラテジスト」という役割を、構造的に定義するOSS書籍である。
 
-**著者：** Satoshi Yamauchi（山内 怜史）  
-**ライセンス：** CC BY 4.0  
-**初版：** 2026年2月  
-
 ---
 
 ## 目次
@@ -1369,7 +1365,7 @@ This project is part of the research by Leading.AI.<br>
 
 ## 📝 License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
 © 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
 
 
