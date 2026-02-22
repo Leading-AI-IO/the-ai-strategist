@@ -2,7 +2,7 @@
 
 **AIストラテジスト — AI・事業戦略・実行の交差点に立つ、新しい役割の定義**
 
-> 本書は、世界のどの政府機関も、どのコンサルティングファームも、どの学術機関も正式に定義していなかった「AIストラテジスト」という役割を、構造的に定義するOSS書籍である。
+> 本書は、世界のどの政府機関も、どのコンサルティングファームも、<br>どの学術機関も正式に定義していなかった「AIストラテジスト」という役割を、構造的に定義するOSS書籍である。
 
 **著者：** Satoshi Yamauchi（山内 怜史）  
 **ライセンス：** CC BY 4.0  
@@ -21,6 +21,8 @@
 - [第7章：成果の測定と、最終的な目標](#第7章成果の測定と最終的な目標)
 
 ---
+
+<br>
 
 # 第1章：AIと組織の関係が変わった
 
@@ -100,6 +102,9 @@ Palantir Foundryに代表されるデータプラットフォームは、組織�
 では、その人材は今、組織の中にいるのか？
 
 次章では、既存の6つの職種を分析し、この構造変革をカバーできる人材が**誰もいない**ことを証明する。
+
+<br>
+
 # 第2章：誰もこの空白を埋めていない
 
 ## 2-1. 6つの既存職種の分析
@@ -330,6 +335,9 @@ graph TB
 **モデルの示唆：** PalantirのFDEモデルは「成果コミット × 埋め込み型関与」という原則で従来のコンサルティングを破壊したが、ベンダー独立性と事業設計の射程という限界を持つ。
 
 空白は証明された。次章では、この空白を埋める役割——AIストラテジスト——を、3つの原則から定義する。
+
+<br>
+
 # 第3章：3つの原則
 
 ## 3-1. 原則の位置づけ
@@ -514,6 +522,9 @@ graph TD
 **※ CAIOに関する注記：** CAIOは3原則を形式的に満たすが、C-suite（経営層）のポジションであり、AI戦略の「設計」と「実行推進」の当事者性に制約がある。また、社内の一組織に固定されるため、複数組織を横断する視点を持ちにくい。AIストラテジストとCAIOの関係は、第6章で詳述する。
 
 3つの原則を定義した。次章では、これらの原則の上に立つコンピテンシー——AIストラテジストに求められる具体的な能力——を設計する。
+
+<br>
+
 # 第4章：コンピテンシーモデル
 
 ## 4-1. 設計の方法論
@@ -782,6 +793,9 @@ graph LR
 ```
 
 次章では、この原則とコンピテンシーの枠組みを使って、隣接する全職種との差別化を構造的に証明する。
+
+<br>
+
 # 第5章：隣接職種との差別化
 
 ## 5-1. 差別化の方法
@@ -956,6 +970,9 @@ graph TB
 AIストラテジストは、これらの職種を置き換えるのではない。**各職種の間に存在する空白を埋め、接続し、統合された価値として組織に提供する**存在である。
 
 この補完関係が実務でどう機能するかは、次章（第6章：組織における配置と機能）で具体的に設計する。
+
+<br>
+
 # 第6章：組織における配置と機能
 
 ## 6-1. AIストラテジストは「どこにいるか」
@@ -1166,6 +1183,9 @@ DX推進部門が「デジタル化の基盤整備」を担い、AIストラテ�
 | 4 | 年商規模や組織規模が小さく、AI投資自体のROIが見込めない | まずはAIツールの活用から |
 
 この判断基準を明示することは、AIストラテジストの定義の信頼性を高める。「すべての組織に必要だ」という過大な主張をしないことが、かえって定義の説得力を強める。
+
+<br>
+
 # 第7章：成果の測定と、最終的な目標
 
 ## 7-1. 何をもって「成果」とするか
@@ -1333,3 +1353,23 @@ AIストラテジストという役割は、2026年の時点ではまだ萌芽�
 - **思想理解（Layer 1）の深堀り：** [The Silence of Intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence) — Anthropic CEO ダリオ・アモディの思想を体系化
 - **FDEモデルの構造分析：** [The Palantir Impact](https://github.com/Leading-AI-IO/palantir-ontology-strategy) — Palantir Foundryのオントロジー戦略を解剖
 - **実行推進（Layer 3）の実践方法論：** [Depth & Velocity](https://github.com/Leading-AI-IO/depth-and-velocity) — 生成AI時代の新規事業開発方法論
+
+---
+
+## Author & Maintainer
+**Satoshi Yamauchi** (山内 怜史)<br>
+*(Business Designer & AI Strategist at SunAsterisk.inc)*<br>
+**[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
+*(Founder / AI Strategist at Leading.AI)*<br>
+This project is part of the research by Leading.AI.<br>
+**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<br>
+*(For consulting inquiries and strategic partnership)*<br>
+
+---
+
+## 📝 License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+© 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
+
+
