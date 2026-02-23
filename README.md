@@ -53,8 +53,8 @@ AIエンジニアでもなく、データサイエンティストでもなく、
 
 | ファイル | 言語 | 内容 |
 |---------|------|------|
-| [the-ai-strategist_jp.md](./the-ai-strategist_jp.md) | 🇯🇵 日本語 | 本文（日本語版） |
-| [the-ai-strategist_en.md](./the-ai-strategist_en.md) | 🇺🇸 English | 本文（英語版） |
+| [the-ai-strategist_jp.md](./docs/ja/the-ai-strategist_jp.md) | 🇯🇵 日本語 | 本文（日本語版） |
+| [the-ai-strategist_en.md](./docs/en/the-ai-strategist_en.md) | 🇺🇸 English | 本文（英語版） |
 
 ---
 
@@ -113,17 +113,14 @@ AIエンジニアでもなく、データサイエンティストでもなく、
 ## 👤 著者
 
 **Satoshi Yamauchi（山内 怜史）**<br>
-AI Strategist & Business Designer at [Sun\*（Sun Asterisk Inc.）](https://sun-asterisk.com/)<br>
-Founder of [Leading AI](https://www.leading-ai.io/)
+AI Strategist & Business Designer at Founder of [Leading AI](https://www.leading-ai.io/)
 
 ビジネス × テクノロジー × クリエイティブの3領域を越境するBTC人材。<br>
-フューチャーアーキテクト、リクルートを経て現職。<br>
 生成AI時代の新規事業開発の方法論「Depth & Velocity」を提唱。
 
 ---
 
 ## 📝 License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
 © 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
