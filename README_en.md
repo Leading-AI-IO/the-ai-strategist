@@ -1,5 +1,9 @@
 # The AI Strategist
 
+<p align="left">
+  <img src="./assets/cover_design.png" width="70%">
+</p>
+
 **Defining a New Role at the Intersection of AI, Business Strategy, and Execution**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -49,8 +53,8 @@ This book consists of 3 parts and 7 chapters.
 
 | File | Language | Content |
 |------|----------|---------|
-| [the-ai-strategist_jp.md](./the-ai-strategist_jp.md) | 🇯🇵 Japanese | Full text (Japanese) |
-| [the-ai-strategist_en.md](./the-ai-strategist_en.md) | 🇺🇸 English | Full text (English) |
+| [the-ai-strategist_jp.md](./docs/ja/the-ai-strategist_jp.md) | 🇯🇵 Japanese | Full text (Japanese) |
+| [the-ai-strategist_en.md](./docs/en/the-ai-strategist_en.md) | 🇺🇸 English | Full text (English) |
 
 ---
 
@@ -109,16 +113,14 @@ The definitions in this book are grounded in the following research findings.
 ## 👤 Author
 
 **Satoshi Yamauchi**<br>
-AI Strategist & Business Designer at [Sun\* (Sun Asterisk Inc.)](https://sun-asterisk.com/)<br>
-Founder of [Leading AI](https://www.leading-ai.io/)
+AI Strategist & Business Designer at Founder of [Leading AI](https://www.leading-ai.io/)
 
 A BTC (Business × Technology × Creative) professional who bridges three domains.<br>
-Former Future Architect and Recruit. Creator of "Depth & Velocity," a methodology for new business development in the generative AI era.
+Creator of "Depth & Velocity," a methodology for new business development in the generative AI era.
 
 ---
 
 ## 📝 License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
 © 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
