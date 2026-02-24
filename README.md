@@ -1,12 +1,12 @@
 # The AI Strategist
 
-<p align="left">
-  <img src="./assets/cover_design.png" width="70%">
-</p>
-
 **AIストラテジスト — AI・事業戦略・実行の交差点に立つ、新しい役割の定義**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+<p align="left">
+  <img src="./assets/cover_design.png" width="70%">
+</p>
 
 ---
 
