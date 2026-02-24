@@ -5,6 +5,7 @@
 > 本書は、世界のどの政府機関も、どのコンサルティングファームも、<br>どの学術機関も正式に定義していなかった「AIストラテジスト」という役割を、構造的に定義するOSS書籍である。
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](../../docs/)
 
 <p align="left">
   <img src="../../assets/cover_design.png" width="70%">
