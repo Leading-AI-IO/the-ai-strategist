@@ -1,10 +1,12 @@
 # The AI Strategist
 
+**Defining a New Role at the Intersection of AI, Business Strategy, and Execution**
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 <p align="left">
   <img src="../../assets/cover_design.png" width="70%">
 </p>
-
-**Defining a New Role at the Intersection of AI, Business Strategy, and Execution**
 
 > This is an open-source book that structurally defines the role of "AI Strategist" — a role that no government agency, no consulting firm, and no academic institution in the world has formally defined.
 
