@@ -92,6 +92,7 @@ AIエンジニアでもなく、データサイエンティストでもなく、
 | **The Silence of Intelligence** | Anthropic CEO ダリオ・アモディの思想を体系化。AIストラテジストの「思想理解」レイヤーの参照文献 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
 | **The Palantir Impact** | Palantir Foundryのオントロジー戦略を解剖。FDEモデルの構造的参照 | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
 | **Depth & Velocity** | 生成AI時代の新規事業開発方法論。AIストラテジストの「実行推進」レイヤーの実践フレームワーク | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
+| **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
 
 ---
 
