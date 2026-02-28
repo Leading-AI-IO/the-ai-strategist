@@ -114,10 +114,12 @@ The definitions in this book are grounded in the following research findings.
 ## 👤 Author
 
 **Satoshi Yamauchi**<br>
-AI Strategist & Business Designer at Founder of [Leading AI](https://www.leading-ai.io/)
-
-A BTC (Business × Technology × Creative) professional who bridges three domains.<br>
-Creator of "Depth & Velocity," a methodology for new business development in the generative AI era.
+*(Business Designer & AI Strategist at SunAsterisk.inc)*<br>
+**[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
+*(Founder / AI Strategist at Leading.AI)*<br>
+This project is part of the research by Leading.AI.<br>
+**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<br>
+*(For consulting inquiries and strategic partnership)*<br>
 
 ---
 
