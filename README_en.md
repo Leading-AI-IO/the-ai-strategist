@@ -89,9 +89,11 @@ This book is interconnected with the following open-source projects.
 
 | Project | Description | Link |
 |---------|-------------|------|
+| **Depth & Velocity** | A practical methodology for new business development in the generative AI era. The execution framework for the AI Strategist's "Execution through Methodology" layer | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
 | **The Silence of Intelligence** | A systematic analysis of Anthropic CEO Dario Amodei's philosophy. Reference for the AI Strategist's "AI Literacy at Depth" layer | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
 | **The Palantir Impact** | A deep dive into Palantir Foundry's Ontology strategy. Structural reference for the FDE model | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
-| **Depth & Velocity** | A practical methodology for new business development in the generative AI era. The execution framework for the AI Strategist's "Execution through Methodology" layer | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
+| **What They Won't Teach You** | A Manifesto on Intergenerational Responsibility in the AI Era | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
+| **The Edge of Intelligence** | Why Open-Weight AI Will Move from Cloud to Your Device, and What It Means for Business and Society | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
 
 ---
 
