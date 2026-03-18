@@ -91,11 +91,14 @@ AIエンジニアでもなく、データサイエンティストでもなく、
 
 | プロジェクト | 概要 | リンク |
 |-------------|------|--------|
-| **The Silence of Intelligence** | Anthropic CEO ダリオ・アモディの思想を体系化。AIストラテジストの「思想理解」レイヤーの参照文献 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
-| **The Palantir Impact** | Palantir Foundryのオントロジー戦略を解剖。FDEモデルの構造的参照 | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
-| **Depth & Velocity** | 生成AI時代の新規事業開発方法論。AIストラテジストの「実行推進」レイヤーの実践フレームワーク | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
-| **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
-| **The Edge of Intelligence** | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり。 | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
+| **Depth & Velocity** | 生成AI時代の新規事業開発方法論 | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
+| **The Silence of Intelligence** | Anthropic CEO ダリオ・アモディの思想を体系化。産業構造の解剖シリーズ第2弾 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
+| **The Anatomy of Anthropic** | Anthropicの戦略・製品・研究・安全性を包括的に解剖 | [GitHub](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic) |
+| **The Palantir Impact** | Palantir Foundryのオントロジー戦略を解剖。産業構造の解剖シリーズ第1弾 | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
+| **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS" | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
+| **The Edge of Intelligence** | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
+| **The Redesign of Design Strategy** | デザイン戦略の再定義。IDEO崩壊の構造分析を含む | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
+| **The Orchestrator** | AI時代に最も希少な人材像「オーケストレーター」を世界で初めて定義 | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
 | **Advertising, Redesigned** | AIが広告を「割り込み」から「優しい提案」に変える。検索の終焉、広告が初めて「歓迎される存在」になる未来。 | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
 
 ---
