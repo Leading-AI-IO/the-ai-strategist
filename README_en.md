@@ -54,7 +54,7 @@ This book consists of 3 parts and 7 chapters.
 
 | File | Language | Content |
 |------|----------|---------|
-| [the-ai-strategist_jp.md](./docs/ja/the-ai-strategist_jp.md) | 🇯🇵 Japanese | Full text (Japanese) |
+| [the-ai-strategist_jp.md](./docs/jp/the-ai-strategist_jp.md) | 🇯🇵 Japanese | Full text (Japanese) |
 | [the-ai-strategist_en.md](./docs/en/the-ai-strategist_en.md) | 🇺🇸 English | Full text (English) |
 
 ---
