@@ -56,7 +56,7 @@ AIエンジニアでもなく、データサイエンティストでもなく、
 
 | ファイル | 言語 | 内容 |
 |---------|------|------|
-| [the-ai-strategist_jp.md](./docs/ja/the-ai-strategist_jp.md) | 🇯🇵 日本語 | 本文（日本語版） |
+| [the-ai-strategist_jp.md](./docs/jp/the-ai-strategist_jp.md) | 🇯🇵 日本語 | 本文（日本語版） |
 | [the-ai-strategist_en.md](./docs/en/the-ai-strategist_en.md) | 🇺🇸 English | 本文（英語版） |
 
 ---
