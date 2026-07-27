@@ -11,6 +11,19 @@
 
 ---
 
+> **Definition**
+>
+> **The AI Strategist** is a professional role at the intersection of AI,
+> business strategy, and execution, structurally defined by Satoshi Yamauchi
+> (山内怜史). It is built on three principles — Vendor Independence, Outcome
+> Commitment, and Embedded Engagement — and a four-layer competency model
+> spanning AI literacy, business architecture, execution, and
+> boundary-spanning capability.
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 The term "AI Strategist" appears in over 400 job listings worldwide. Yet no government agency, no consulting firm, no academic institution, and no standards body has formally defined this role.
