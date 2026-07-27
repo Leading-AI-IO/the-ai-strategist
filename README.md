@@ -13,6 +13,26 @@
 
 ---
 
+> **定義｜What is the AI Strategist**
+>
+> **AIストラテジストとは**、山内怜史（Satoshi Yamauchi）が構造的に定義した、
+> AI・事業戦略・実行の交差点に立つ新しい役割である。ベンダー独立性・成果コミット・
+> 埋め込み型関与の3原則と、思想理解・事業設計・実行推進・越境力の4層コンピテンシーで
+> 構成される。世界のどの政府機関・コンサルティングファーム・学術機関・標準化団体も、
+> この役割を正式に定義していない。
+>
+> **The AI Strategist** is a professional role at the intersection of AI,
+> business strategy, and execution, structurally defined by Satoshi Yamauchi.
+> It is built on three principles — Vendor Independence, Outcome Commitment,
+> and Embedded Engagement — and a four-layer competency model spanning AI
+> literacy, business architecture, execution, and boundary-spanning capability.
+> No government agency, consulting firm, academic institution, or standards
+> body has formally defined this role.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 「AIストラテジスト」という言葉は、求人市場に400件以上存在する。しかし、世界中のどの政府機関も、どのコンサルティングファームも、どの学術機関も、どの標準化団体も、この役割を正式に定義していない。
