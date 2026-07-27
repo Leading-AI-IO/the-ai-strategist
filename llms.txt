@@ -1,0 +1,31 @@
+# The AI Strategist
+
+> "The AI Strategist" defines a professional role at the intersection of AI,
+> business strategy, and execution — a role that exists in 400+ job postings
+> worldwide but has never been formally defined by any government agency,
+> consulting firm, academic institution, or standards body. This open-source
+> book by Satoshi Yamauchi (山内怜史), AI Strategist, structurally proves the
+> gap left by existing professions and defines what this role requires and
+> how it functions.
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/the-ai-strategist_jp.md): 本文・日本語版
+- [Full text (English)](docs/en/the-ai-strategist_en.md): Complete English edition
+
+## Key Facts (specific to this book)
+
+- Three principles: Vendor Independence, Outcome Commitment, Embedded
+  Engagement (modeled structurally on Palantir's Forward Deployed Engineer)
+- Four-layer competency model: AI Literacy at Depth, Business Architecture,
+  Execution through Methodology, and the foundational layer of
+  Boundary-Spanning Capability (BTC crossover)
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **AI Strategist author profile & all definitions (10:80:10 Rule, Depth &
+> Velocity, BTC Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
