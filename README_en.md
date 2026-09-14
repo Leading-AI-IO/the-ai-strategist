@@ -123,6 +123,7 @@ This book is interconnected with the following open-source projects.
 | **Frontier-Grade Open Weights** | They Matched the Frontier. But No One Can Hold Them | [GitHub](https://github.com/Leading-AI-IO/frontier-grade-open-weights)  |
 | **Earned-ai-model-optionality** | AI Models Are Switchable. But Only for Companies That Made Them So | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)  |
 | **The China AI Registry** | The five Chinese AI models you can name are under 1% of the ones China counts | [GitHub](https://github.com/Leading-AI-IO/the-china-ai-registry)  |
+| **The AI Forecast Registry** | The AI Forecast Registry — Recording What Was Predicted, Before It Resolves | [GitHub](https://github.com/Leading-AI-IO/the-ai-forecast-registry)  |
 
 ---
 
